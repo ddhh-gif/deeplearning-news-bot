@@ -1,4 +1,4 @@
-# DL Hyper-Param News Bot
+# deeplearning-news-bot
 
 自动抓取 arXiv 论文，筛选 DL 调参相关内容，并输出 newsletter（Markdown + INI）。
 
